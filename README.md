@@ -1,5 +1,5 @@
 # Financial Controller Portfolio Project
-Financial Controller Portfolio | Budget vs Actual Analysis | FP&amp;A Case Study
+Financial Controller Portfolio | Budget vs Actual Analysis | FP&A Case Study
 
 ## Project Overview
 This project simulates the monthly financial review performed by a Financial Controller.
